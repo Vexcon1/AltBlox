@@ -1,3 +1,7 @@
+#AltBox
+
+--- 
+
 <h1 align="center">
     <sub>
         <img  src="https://github.com/Kelvinouo/AltBlox/blob/master/images/icon48.png?raw=true" height="38" width="38">
@@ -11,8 +15,21 @@
 
 ---
 
+One click join with random alt
+Join a game with an alt just simply one click!
+
+#### Instructions:
+   1. Get into a game page
+   2. Click extension icon
+   3. Solve Captcha
+   4. Enjoy.
+
 ## FAQ
 
 #### What does this plugin do?
 
 This plugin allows users to join game / login with a random account
+
+#### Is it free?
+
+Yep.
